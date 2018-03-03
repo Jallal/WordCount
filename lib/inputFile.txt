@@ -1,0 +1,11 @@
+Jallal,
+
+Here is a small problem I'd like you solve at your earliest convenience and let us know, so, we can schedule a follow up on the solution.
+
+Consider a large text file that has several lines of text. Each line is separated by a line break (\n) and each line contains several space separated words, with a maximum of 300 words per line. Write a spring based application to count the words, letters and punctuations in the provided file.  Use the MapReduce pattern and JMS Queues (preferably ActiveMQ) to optimize the computation.
+
+thanks,
+Chandru 
+
+
+
