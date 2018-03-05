@@ -1,6 +1,4 @@
 com\wordcount\service\process.class
-com\wordcount\service\WordCount.class
-com\wordcount\service\WordCount$ReduceForWordCount.class
+com\wordcount\service\SpringConsumer$1.class
 com\wordcount\service\SpringProducer.class
 com\wordcount\service\SpringConsumer.class
-com\wordcount\service\WordCount$MapForWordCount.class
